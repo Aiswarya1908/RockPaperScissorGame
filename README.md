@@ -1,2 +1,1 @@
-﻿# RockPaperScissorGame
-#CurrencyConverter
+﻿# RockPaperScissorGame and CurrencyConverter
